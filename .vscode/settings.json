@@ -1,0 +1,13 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "files.exclude": {
+        "**/android": true
+    },
+    "search.exclude": {
+        "**/android": true
+    },
+    "files.watcherExclude": {
+        "**/android/**": true
+    },
+    "java.errors.incompleteClasspath.severity": "ignore"
+}
